@@ -50,19 +50,16 @@
     <h2>Projects</h2>
     <p>Here are some of my individual projects:</p>
     <ul>
-      <li>Project 1</li>
-      <li>Project 2</li>
-      <li>Project 3</li>
     </ul>
   </div>
 
   <div class="section" id="contact">
-    <h3>Contact</h3>
+    <h2>Contact</h2>
     <p>You can contact me through the following means:</p>
     <ul>
-      <li>Website: <a href="https://www.yourwebsite.com">YourWebsite</a></li>
-      <li>Email: <a href="mailto:youremail@gmail.com">youremail@gmail.com</a></li>
-      <li>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile">linkedin.com/in/yourprofile</a></li>
+      <li>Website: <a href="https://andresariza27.github.io/Portfolio/">🌐 andresariza27.github.io/Portfolio 🌐</a></li>
+      <li>Email: <a href="mailto:arjulian003@gmail.com">📧 arjulian003@gmail.com 📧</a></li>
+      <li>LinkedIn: <a href="https://www.linkedin.com/in/andres-ariza27/">🔗 linkedin.com/in/andres-ariza27 🔗</a></li>
     </ul>
   </div>
 </body>
