@@ -13,16 +13,41 @@
     <h2>Skills</h2>
     <ul>
       <li>Languages: HTML, CSS, JavaScript, C#</li>
+      <div>
+        <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="40rem"/>
+        <img src="https://www.svgrepo.com/show/452185/css-3.svg" width="40rem"/>
+        <img src="https://www.svgrepo.com/show/452045/js.svg" width="40rem"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="40rem"/>
+      </div>
       <li>Frameworks: React, Bootstrap</li>
+      <div>
+        <img src="https://www.svgrepo.com/show/452092/react.svg" width="40rem"/>
+        <img src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg" width="40rem"/>
+      </div>
       <li>API Integration</li>
+      <div>
+        <img src="https://www.svgrepo.com/show/375531/api.svg" width="40rem"/>
+      </div>
       <li>Version Control with Git</li>
+      <div>
+        <img src="https://www.svgrepo.com/show/452210/git.svg" width="40rem"/>
+        <img src="https://cdn.iconscout.com/icon/free/png-512/free-github-159-721954.png?f=avif&w=256" width="40rem"/>
+      </div>
       <li>SQL (junior level)</li>
+      <div>
+        <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="40rem"/>
+        <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="40rem"/>
+      </div>
       <li>Agile Methodologies: Scrum and Kanban</li>
+      <div>
+        <img src="https://www.svgrepo.com/show/439311/scrum.svg" width="40rem"/>
+        <img src="https://www.svgrepo.com/show/452119/trello.svg" width="40rem"/>
+      </div>
     </ul>
   </div>
 
   <div class="section" id="projects">
-    <h3>Projects</h3>
+    <h2>Projects</h2>
     <p>Here are some of my individual projects:</p>
     <ul>
       <li>Project 1</li>
